@@ -4,9 +4,9 @@ const nextConfig: NextConfig = {
   /* config options here */
   experimental:{
     dynamicIO: true,
-    authInterrup
+    authInterrupts: true,
 
-  }
-};
+  },
+}
 
 export default nextConfig;
